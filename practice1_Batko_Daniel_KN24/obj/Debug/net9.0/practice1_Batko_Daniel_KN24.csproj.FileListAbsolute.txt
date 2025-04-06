@@ -1,0 +1,42 @@
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\practice1_Batko_Daniel_KN24.exe
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\practice1_Batko_Daniel_KN24.deps.json
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\practice1_Batko_Daniel_KN24.runtimeconfig.json
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\practice1_Batko_Daniel_KN24.dll
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\practice1_Batko_Daniel_KN24.pdb
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\Spectre.Console.dll
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\Spectre.Console.Cli.dll
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\de\Spectre.Console.Cli.resources.dll
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\fr\Spectre.Console.Cli.resources.dll
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\sv\Spectre.Console.Cli.resources.dll
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.csproj.AssemblyReference.cache
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.AssemblyInfoInputs.cache
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.AssemblyInfo.cs
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.csproj.CoreCompileInputs.cache
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice.5676CA64.Up2Date
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.dll
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\refint\practice1_Batko_Daniel_KN24.dll
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.pdb
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.genruntimeconfig.cache
+C:\Users\soryn\RiderProjects\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\ref\practice1_Batko_Daniel_KN24.dll
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\practice1_Batko_Daniel_KN24.exe
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\practice1_Batko_Daniel_KN24.deps.json
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\practice1_Batko_Daniel_KN24.runtimeconfig.json
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\practice1_Batko_Daniel_KN24.dll
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\practice1_Batko_Daniel_KN24.pdb
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\Spectre.Console.dll
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\Spectre.Console.Cli.dll
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\de\Spectre.Console.Cli.resources.dll
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\fr\Spectre.Console.Cli.resources.dll
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\bin\Debug\net9.0\sv\Spectre.Console.Cli.resources.dll
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.csproj.AssemblyReference.cache
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.AssemblyInfoInputs.cache
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.AssemblyInfo.cs
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.csproj.CoreCompileInputs.cache
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice.5676CA64.Up2Date
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.dll
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\refint\practice1_Batko_Daniel_KN24.dll
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.pdb
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\practice1_Batko_Daniel_KN24.genruntimeconfig.cache
+C:\Users\soryn\OneDrive\Робочий стіл\practice1_Batko_Daniel_KN24\practice1_Batko_Daniel_KN24\obj\Debug\net9.0\ref\practice1_Batko_Daniel_KN24.dll
